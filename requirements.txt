@@ -22,9 +22,8 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-yt-dlp>=2025.1.15
-https://github.com/KSKOP69/youtube-search-python/archive/ksk.zip
-#git+https://github.com/yt-dlp/yt-dlp
-#youtube-search
-#youtube-search-python
+yt-dlp
+git+https://github.com/yt-dlp/yt-dlp
+youtube-search
+youtube-search-python
 wget
