@@ -22,10 +22,8 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-#yt-dlp
-yt-dlp==2025.1.30.232843.dev0
-git+https://github.com/Kanha-XD/youtube-search-python
+yt-dlp
 git+https://github.com/yt-dlp/yt-dlp
 youtube-search
-#youtube-search-python
+youtube-search-python
 wget
