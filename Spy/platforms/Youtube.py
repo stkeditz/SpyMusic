@@ -5,7 +5,7 @@ from typing import Union
 import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
-from youtubesearchpython._future_ import VideosSearch
+from youtubesearchpython.__future__ import VideosSearch
 from Spy.utils.database import is_on_off
 from Spy.utils.formatters import time_to_seconds
 
